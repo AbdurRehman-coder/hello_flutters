@@ -16,7 +16,7 @@ class i_am_poor extends StatelessWidget {
         home: Scaffold(
           appBar: AppBar(
             title: Text('i_Am_poor'),
-            backgroundColor: Colors.black87,
+            backgroundColor: Colors.grey,
           ),
           body: Center(
             child: Column(
@@ -88,5 +88,3 @@ void main() {
   ));
 }
 */
-
-
